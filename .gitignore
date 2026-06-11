@@ -1,0 +1,9 @@
+# Wayne workspace GitHub backup — .gitignore
+
+# Don't back up these
+.openclaw/
+workspace-state.json
+*.log
+
+# Keep everything in skills/, memory/, SEO_RESEARCH/
+# but exclude temp files
